@@ -7,8 +7,8 @@ MY_LAT = 22.474751
 MY_LONG = 88.362289
 
 api_key = os.environ.get("OWM_API_KEY")     #go to Terminal, enter command env
-account_sid = "ACe6c45331dcea08d3e7b9c2b803666e9b"
-auth_token = "9f59cd5889a6df257c90ffa9d375eeaa"
+account_sid = "Enter Account SID"
+auth_token = "Your Auth Token"
 
 parameters = {
     "lat": MY_LAT,
